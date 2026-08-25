@@ -19,6 +19,7 @@ cd PFM_Scouting_Real_Racing_Club/Codigo/07_Streamlit
 pip install -r requirements.txt
 streamlit run app.py
 ```
+> Si no tienes git instalado, puedes descargar el proyecto directamente desde el botón **Code → Download ZIP** de esta página, descomprimirlo, y continuar desde el segundo comando (`cd`) usando la ruta donde lo hayas descomprimido.
 
 Dependencias principales: streamlit 1.51.0, pandas 2.3.3, numpy 2.3.5, scikit-learn 1.7.2, fpdf2 2.8.8, matplotlib 3.10.6, Pillow 12.0.0.
 
