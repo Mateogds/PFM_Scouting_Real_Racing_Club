@@ -2,7 +2,7 @@
 
 Herramienta de scouting por similitud de jugadores desarrollada como Trabajo Fin de Máster (Big Data Deportivo, Sports Data Campus / UCAM). Dado un jugador de referencia, devuelve un top-15 de jugadores estadísticamente similares, cruzado con un indicador de valor esperado (xValue) y un índice de compatibilidad táctica entre clubes. Caso de estudio: Real Racing Club de Santander.
 
-**Demo en producción:** https://pfmscoutingrealracingclub-no6wkakcrqgx6khcke9fgh.streamlit.app/
+**Aplicación en producción:** https://pfmscoutingrealracingclub-no6wkakcrqgx6khcke9fgh.streamlit.app/
 
 ## Qué hace
 
